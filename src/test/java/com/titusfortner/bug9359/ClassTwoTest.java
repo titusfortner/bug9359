@@ -6,41 +6,41 @@ public class ClassTwoTest extends BaseTest {
 
     @Test
     public void methodOneTest() {
-        driver.get("https://nytimes.com");
+        driver.get(TEST_URL);
     }
 
     @Test
     public void methodTwoTest() {
-        driver.get("https://nytimes.com");
+        driver.get(TEST_URL);
     }
 
     @Test
     public void methodThreeTest() {
-        driver.get("https://nytimes.com");
+        driver.get(TEST_URL);
     }
 
     @Test
     public void methodFourTest() {
-        driver.get("https://nytimes.com");
+        driver.get(TEST_URL);
     }
 
     @Test
     public void methodFiveTest() {
-        driver.get("https://nytimes.com");
+        driver.get(TEST_URL);
     }
 
     @Test
     public void methodSixTest() {
-        driver.get("https://nytimes.com");
+        driver.get(TEST_URL);
     }
 
     @Test
     public void methodSevenTest() {
-        driver.get("https://nytimes.com");
+        driver.get(TEST_URL);
     }
 
     @Test
     public void methodEightTest() {
-        driver.get("https://nytimes.com");
+        driver.get(TEST_URL);
     }
 }

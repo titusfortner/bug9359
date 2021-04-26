@@ -7,6 +7,7 @@ import org.openqa.selenium.chrome.ChromeDriver;
 
 public class BaseTest {
     ChromeDriver driver = null;
+    public static final String TEST_URL = "http://example.com";
 
     @BeforeEach
     public void setUp() {
